@@ -13,7 +13,7 @@ const Contact = () => {
             <div className="flex w-full flex-col gap-3 whitespace-nowrap xl:flex-row">
               <Button
                 type="button"
-                title="support@hilink.com"
+                title="support@easejourney.com"
                 variant="btn_white"
                 full
               />
